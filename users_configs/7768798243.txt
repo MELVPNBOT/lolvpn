@@ -1,6 +1,6 @@
 #profile-title:⚡️ЛолВПН||Private⚡️
 #profile-update-interval: 12
-#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1785785111
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1785785113
 #support-url:
 #profile-web-page-url:
 #announce:base64:bG9sdnBuIFByaXZhdGUgLSAK0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8g0LLQtdGA0YHQuNGPINCy0L/QvQrQoNCw0LHQvtGC0LDRgdC/0L7RgdC+0LHQvdC+0YHRgtGMINC+0LHRhdC+0LTQvtCyINC90LUg0LPQsNGA0LDQvdGC0LjRgNGD0LXRgdGC0Y8K0L3QsNGIINCx0L7RggpAbG9sX3Zwbl9yb2JvdAo=
