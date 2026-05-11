@@ -3,7 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=536870912000; expire=
 #support-url:
 #profile-web-page-url:
-#announce:base64:bG9sdnBuIFByaXZhdGUgLSAK0JHQtdGB0L/Qu9Cw0YLQvdCw0Y8g0LLQtdGA0YHQuNGPINCy0L/QvQrQoNCw0LHQvtGC0LDRgdC/0L7RgdC+0LHQvdC+0YHRgtGMINC+0LHRhdC+0LTQvtCyINC90LUg0LPQsNGA0LDQvdGC0LjRgNGD0LXRgdGC0Y8K0L3QsNGIINCx0L7RggpAbG9sX3Zwbl9yb2JvdAo=
+#announce:base64:0JXRgdC70Lgg0YHQtdGA0LLQtdGA0LAg0L3QtSDRgNCw0LHQvtGC0LDRjtGCINC90LDQttC80LjtoL3ttIMK0JbQvNC4INC90LAg0LfQvdCw0YfQvtC6IOKPsiDQuCDQv9C+0LTQutC70Y7Rh9C40YHRjCDQuiDQvdCw0LjQvNC10L3RjNGI0LXQvNGDCu2gve26gNCh0LDQvNGL0LUg0JHRi9GB0YLRgNGL0LUg0YHQtdGA0LLQtdGA0LAg0YEg0L7RgtC80LXRgtC60L7QuSBGYXN07aC97bqACuKaodCb0YPRh9GI0LjQtSDRgdC10YDQstC10YDQsCDRgSDQvtGC0LzQtdGC0LrQvtC5IEJlc3TimqEKICAgICAgICAgICAgICAgICAgICAgICAgICAgICDtoL3ttJHQmtC70Y7RhzpWSVDtoL3ttJE=
 
 vless://62153429-585f-49cd-8030-14391cb4429f@most-cy.harknmav.fun:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=chrome&pbk=BkQP5K_b-8lshJciihVQa4SbEWu-g51DzlVGndzwc2w&sid=4e752b0d4d15e0f9&type=tcp#%F0%9F%87%AA%F0%9F%87%BA%20%E2%9A%A1%EF%B8%8F%20Private%20%7C%20%D0%91%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9
 vless://62153429-585f-49cd-8030-14391cb4429f@caw-1.harknmav.fun:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=chrome&pbk=UREQcI9I7MVmX8vkFdXjKsco_rfjVZJ-lpzfSmBdi0Q&sid=2e552a0d2d15e0f9&type=tcp#%F0%9F%87%A8%F0%9F%87%A6Canada%20%7C%20Fast
